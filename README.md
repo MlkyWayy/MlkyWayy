@@ -1,5 +1,5 @@
 ### Hi I'm Fajar
-
+- [Portfolio](https://fajarr-m.github.io)
 - 🔭 I'm not working yet
 - 🌱 Html Css Javascript
 - 😄 Just A Kid From Bandung Want To Be Frontend Dev

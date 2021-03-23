@@ -1,4 +1,7 @@
-### Hi I'm Fajar
+<h2 align="center"><strong>Hi there, I'm Fajar</strong> 👋<h2>
+<h1 align="center">
+  <img alt="Lumina Luna Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fajarr-m&show_icons=true&hide_border=true&theme=tokyonight" />
+</h1>
 - [Portfolio](https://fajarr-m.github.io)
 - 🔭 Student
 - 🌱 Html Css Javascript

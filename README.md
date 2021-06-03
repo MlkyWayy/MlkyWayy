@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Hi there, I'm Fajar</strong> 👋<h2>
 <h1 align="center">
-  <img alt="Fajar Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fajarr-m&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img alt="Fajar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fajarr-M&show_icons=true&theme=radical" />
 </h1>
  <br>
  <br>

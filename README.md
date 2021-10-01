@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Javascript**
 
-- 👨‍💻 All of my projects are available at [fajarr-m.github.io](fajarr-m.github.io)
+- 👨‍💻 All of my projects are available at [here](fajarr-m.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

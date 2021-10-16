@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 👨‍💻 All of my projects are available at [https://fajarr-m.github.io/](https://fajarr-m.github.io/)
+- 👨‍💻 All of my projects are available at [https://mlkywayy.github.io/](https://mlkywayy.github.io/)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap**
 

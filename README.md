@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fajar</h1>
+<h1 align="center">Hi 👋, I'm Mw</h1>
 <h3 align="center">Junior Frontend Dev From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarr-m&label=Profile%20views&color=brightgreen&style=flat-square" alt="fajarr-m" /> </p>

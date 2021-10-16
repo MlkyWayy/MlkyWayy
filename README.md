@@ -34,7 +34,7 @@
 <br>
 <br>
 <h1 align="center"><strong>Github Stats</strong></h1>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajarr-m&show_icons=true&locale=en&layout=compact" alt="fajarr-m" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlkywayy&show_icons=true&locale=en&layout=compact" alt="fajarr-m" /></p>
 <h1 align="center">
-  <img alt="Fajar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fajarr-M&show_icons=true&theme=tokyonight" />
+  <img alt="Fajar Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlkywayy&show_icons=true&theme=tokyonight" />
 </h1>

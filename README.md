@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mlkywayy_" target="blank"><img src="https://img.shields.io/twitter/follow/mlkywayy_?logo=twitter&style=for-the-badge" alt="mlkywayy_" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://mlkywayy.github.io/](https://mlkywayy.github.io/)
 

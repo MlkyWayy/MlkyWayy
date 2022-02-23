@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarr-m&label=Profile%20views&color=brightgreen&style=flat-square" alt="fajarr-m" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mlkywayy_" target="blank"><img src="https://img.shields.io/twitter/follow/hyrrokkyn?logo=twitter&style=for-the-badge" alt="mlkywayy_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mlkywayy_" target="blank"><img src="https://img.shields.io/twitter/follow/mlkywayy_?logo=twitter&style=for-the-badge" alt="mlkywayy_" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript and Laravel**
 

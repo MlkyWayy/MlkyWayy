@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript and PHP**
 
-- 👨‍💻 All of my projects are available at [here](https://mlkywayy.github.io/)
+- 👨‍💻 All of my projects are available at [here](https://fajarmhabibi.me/)
 
 - 💬 Ask me about **HTML,CSS,Bootstrap**
 
